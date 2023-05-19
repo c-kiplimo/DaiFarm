@@ -8,7 +8,7 @@ class Navbar extends Component {
       <nav className="navbar navbar-dark fixed-top bg-danger flex-md-nowrap p-0 shadow">
         <a
         className="nav-item text-nowrap d-none d-sm-none d-sm-block"
-        href="https://github.com/ahmetozlu"
+        href="https://github.com/c-kiplimo"
         target="_blank"
         rel="noopener noreferrer"
         >
